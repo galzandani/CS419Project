@@ -38,7 +38,7 @@ Open the file ./Servers/Tomcat v7.0 Server at localhost-config/**server.xml** an
     protocol="org.apache.coyote.http11.Http11NioProtocol" scheme="https"
     secure="true" sslProtocol="TLS" />
 ```
-Fill in your username at [username] and password of your certificate at [password].
+Fill in your computer username at [username] and the password of your certificate at [password].
 
 #### 3. Test it out
 Connect to your server and open this link (https://localhost:8443/MyPasswordWebsite/).
