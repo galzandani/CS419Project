@@ -6,6 +6,12 @@ My project demonstrates a localhost server with a private designed website that 
 
 Digital certificates is an electronic password that allows a person or an organizaion to exchange data securely over the Internet using the public key infrastructure, this is used by most public websites on the Internet today to ensure the security of the encrypted conection to the domain. This ensures that data sent to or from the website is kept private.
 
+## **Downloading the Apache Tomcat Software
+
+It is an HTTP web server environment in which Java code can run.
+Link for download: https://www.npackd.org/p/org.apache.tomcat.Tomcat64/7.0.106
+(This is the exact version of the Apache Tomcat Software I used to run the code on my computer)
+
 
 ## **Instructions for setting up the self-signed certificate on your computer**
 
